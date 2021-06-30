@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Ram
 
-- 🔭 I’m currently working as a data analyst with "data is good"
-- 🌱 I’m currently learning cloud technologies and heroku
+- 🔭 I’m currently working as a data scientist with "iOPEX Technologies"
 - 👯 I’m looking to collaborate on any fresher who passionate on data science 
-- 🤔 I’m looking for help with cloud platform
+- 🤔 I’m looking for help in cloud platforms
 - 💬 Ask me about Data Science, Machine learning, statistics
 - 🖥️ Review my pinned repositories
 
