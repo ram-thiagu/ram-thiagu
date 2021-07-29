@@ -8,7 +8,7 @@
 
 ### Reach me on
 - 👨‍💼 [Linkedin](https://www.linkedin.com/in/ram-thiagu/) - https://www.linkedin.com/in/ram-thiagu/
-- 📄 [Medium](https://ram-thiagu.medium.com/) - https://ram-thiagu.medium.com/
+- 📄 [Blog](https://ramthiagu.blogspot.com/) - https://ramthiagu.blogspot.com/
 - 📊 [Kaggle](https://www.kaggle.com/ramakrishnanthiyagu) - https://www.kaggle.com/ramakrishnanthiyagu
 
 ### Provide Feedback on my resume
